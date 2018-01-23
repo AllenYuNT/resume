@@ -1,6 +1,2 @@
-## 余鹏
 
-### Web前端开发工程师
-
-> #### 2019/本科
-
+![resume](C:\Users\Mr.Y\Desktop\web\resume\resume.png)
