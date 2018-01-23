@@ -1,1 +1,1 @@
-![resume](https://github.com/Yupeng0813/resume/tree/master/img/resume.png)
+![resume](https://raw.githubusercontent.com/Yupeng0813/resume/master/img/resume.png)
