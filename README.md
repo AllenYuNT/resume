@@ -1,2 +1,1 @@
-
-![resume](C:\Users\Mr.Y\Desktop\web\resume\resume.png)
+![resume](https://github.com/Yupeng0813/resume/tree/master/img/resume.png)
