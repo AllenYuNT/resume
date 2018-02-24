@@ -44,6 +44,7 @@ h3 {
     text-transform: uppercase;
     color: #000;
     margin-top: 0;
+    font-weight: 900;
 }
 
 h4 {
@@ -136,3 +137,68 @@ footer a {
     text-indent: 32px;
 }
 
+.col-md-9{
+    width: 100%;
+}
+.col-md-10{
+    width: 100%;
+}
+
+
+.col-sm-10{
+    width: 100%;
+}
+.col-sm-11{
+    padding-right: 0;
+}
+
+.year{
+    float: right;
+    position: relative;
+    height: 0;
+    width: 26%;
+}
+
+.proTitle{
+    color: #1c84c6;
+    font-weight: 600;
+}
+.proDetail{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.proDetail .proDetail_tit{
+    font-weight: 600;
+}
+.proDetail span{
+    font-size: 15px;
+    line-height: 1.7em;
+    font-weight: normal;
+    color: #333333;
+}
+
+.my_info p span{
+    display: inline-block;
+    width: 70px;
+    text-align: right;
+    color: #000;
+}
+
+.my_job{
+    color: #1c84c6;
+    font-weight: 700;
+}
+
+b{
+    color: #ff6000;
+    font-weight: 800;
+}
+
+p{
+    font-weight: normal;
+    color: #000;
+}
+li{
+    font-weight: normal;
+    color: #222;
+}
