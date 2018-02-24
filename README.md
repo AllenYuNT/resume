@@ -1,4 +1,4 @@
 ## 余鹏
 https://yupeng0813.github.io/resume/index.html
 
-![resume](C:\Users\Mr.Y\Desktop\web\resume\resume\img\resume.png)
+![resume](https://github.com/Yupeng0813/resume/tree/master/img/resume.png)
